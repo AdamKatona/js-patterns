@@ -12,5 +12,17 @@
     "patterns"
   ],
   "author": "Dan Wellman <danwellman@hotmail.com> (danwellman.co.uk)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.8.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamKatona/js-patterns.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AdamKatona/js-patterns/issues"
+  },
+  "homepage": "https://github.com/AdamKatona/js-patterns#readme"
 }
